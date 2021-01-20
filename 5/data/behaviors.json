@@ -1,0 +1,83 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "allureFixtureTest()",
+    "uid" : "8513380b8e5a1f4a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611117797464,
+      "stop" : 1611117797607,
+      "duration" : 143
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureFixtureTest2()",
+    "uid" : "5ba62f60642b1428",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611117797718,
+      "stop" : 1611117797719,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allureFakeParameterizedTest()",
+    "uid" : "e693606b6685f065",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611117797740,
+      "stop" : 1611117797746,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "fakeValue" ]
+  }, {
+    "name" : "allureParameterizedTest displayName [First Name]",
+    "uid" : "34a0d8359d34fc68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611117797801,
+      "stop" : 1611117797835,
+      "duration" : 34
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "First Name" ]
+  }, {
+    "name" : "allureParameterizedTest displayName [Second Name]",
+    "uid" : "e298d33575f5020d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611117797843,
+      "stop" : 1611117797845,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Second Name" ]
+  }, {
+    "name" : "allureSimpleTest displayName",
+    "uid" : "b59fee4cfde41b68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611117797873,
+      "stop" : 1611117797907,
+      "duration" : 34
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

@@ -1,0 +1,94 @@
+{
+  "uid" : "171fd5b21da8eacd",
+  "name" : "dynamicAttachmentTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureAttachmentTest.dynamicAttachmentTest",
+  "historyId" : "3d14425362ed4e17f11112726f3aa8dc",
+  "time" : {
+    "start" : 1623316747357,
+    "stop" : 1623316747366,
+    "duration" : 9
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5b02595a81c400b5",
+      "name" : "Dynamic attachment",
+      "source" : "5b02595a81c400b5.txt",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az231-31"
+  }, {
+    "name" : "thread",
+    "value" : "2927@fv-az231-31.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "dynamicAttachmentTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e0f2af93b264fdcf",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/6//#testresult/e0f2af93b264fdcf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616359431468,
+          "stop" : 1616359431473,
+          "duration" : 5
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "171fd5b21da8eacd.json",
+  "parameterValues" : [ ]
+}

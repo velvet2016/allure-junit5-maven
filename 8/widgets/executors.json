@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://allure-examples.github.io/allure-junit5-maven",
+  "buildOrder" : 8,
+  "buildName" : "GitHub Actions Run #1034349652",
+  "buildUrl" : "https://github.com/allure-examples/allure-junit5-maven/actions/runs/1034349652",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/8/"
+} ]

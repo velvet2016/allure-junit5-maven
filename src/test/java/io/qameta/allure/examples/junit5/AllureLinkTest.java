@@ -22,7 +22,9 @@ public class AllureLinkTest {
 
     @Test
     public void dynamicLinkTest() {
+
         Allure.link("Dynamic link", "https://qameta.io");
+        assert 1==2;
     }
 
 }

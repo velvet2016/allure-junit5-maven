@@ -1,59 +1,209 @@
 [ {
-  "uid" : "698a47ef738b2e12",
-  "name" : "allureFakeParameterizedTest()",
+  "uid" : "36e107d7d126fb86",
+  "name" : "staticLinkTest()",
   "time" : {
-    "start" : 1598358539116,
-    "stop" : 1598358539154,
-    "duration" : 38
+    "start" : 1644105261866,
+    "stop" : 1644105262098,
+    "duration" : 232
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "133821e1d58701e9",
-  "name" : "allureParameterizedTest displayName [First Name]",
+  "uid" : "774b66c00017aa77",
+  "name" : "allureParameterizedTest displayName [Mike]",
   "time" : {
-    "start" : 1598358539449,
-    "stop" : 1598358539474,
-    "duration" : 25
+    "start" : 1644105262583,
+    "stop" : 1644105262584,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d8003ef1f5153bbb",
-  "name" : "allureSimpleTest displayName",
+  "uid" : "cb8f8a27d05330d3",
+  "name" : "javadocDescriptionTest()",
   "time" : {
-    "start" : 1598358539592,
-    "stop" : 1598358539610,
-    "duration" : 18
+    "start" : 1644105262620,
+    "stop" : 1644105262628,
+    "duration" : 8
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b4681f5ad0e5d27d",
-  "name" : "allureFixtureTest()",
+  "uid" : "2af89bb1c4b1a761",
+  "name" : "allureParameterizedTest displayName [John]",
   "time" : {
-    "start" : 1598358539538,
-    "stop" : 1598358539544,
-    "duration" : 6
+    "start" : 1644105262539,
+    "stop" : 1644105262575,
+    "duration" : 36
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "49d75373c4858e6a",
-  "name" : "allureFixtureTest2()",
+  "uid" : "e572cc8e42b079b",
+  "name" : "dynamicDescriptionTest()",
   "time" : {
-    "start" : 1598358539565,
-    "stop" : 1598358539567,
+    "start" : 1644105262609,
+    "stop" : 1644105262617,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2082c54913940a30",
+  "name" : "annotationDescriptionTest()",
+  "time" : {
+    "start" : 1644105262605,
+    "stop" : 1644105262607,
     "duration" : 2
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b7a91ac98d643d11",
-  "name" : "allureParameterizedTest displayName [Second Name]",
+  "uid" : "3563d7402e159f1a",
+  "name" : "customDynamicLabelTest()",
   "time" : {
-    "start" : 1598358539484,
-    "stop" : 1598358539486,
+    "start" : 1644105262426,
+    "stop" : 1644105262428,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "708cadd38832f181",
+  "name" : "annotatedStepTest()",
+  "time" : {
+    "start" : 1644105262364,
+    "stop" : 1644105262372,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1088dae9b129124",
+  "name" : "allureSimpleTest displayName",
+  "time" : {
+    "start" : 1644105262280,
+    "stop" : 1644105262322,
+    "duration" : 42
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4ed8c596163b435",
+  "name" : "annotatedAttachmentTest()",
+  "time" : {
+    "start" : 1644105262404,
+    "stop" : 1644105262412,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afc71be2a006eeb2",
+  "name" : "Static name",
+  "time" : {
+    "start" : 1644105262634,
+    "stop" : 1644105262635,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd33289c27638c9a",
+  "name" : "Test with parameter [dynamic parameter]",
+  "time" : {
+    "start" : 1644105262632,
+    "stop" : 1644105262633,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6874ebfa40db071c",
+  "name" : "commonDynamicLabelTest()",
+  "time" : {
+    "start" : 1644105262421,
+    "stop" : 1644105262422,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76356dbfca6b0377",
+  "name" : "staticLinksTest()",
+  "time" : {
+    "start" : 1644105262244,
+    "stop" : 1644105262245,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3c02565192d7819",
+  "name" : "allureFakeParameterizedTest()",
+  "time" : {
+    "start" : 1644105262497,
+    "stop" : 1644105262498,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93e5a4619c5af958",
+  "name" : "lambdaStepTest()",
+  "time" : {
+    "start" : 1644105262351,
+    "stop" : 1644105262353,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3ef07048a90c486",
+  "name" : "dynamicLinkTest()",
+  "time" : {
+    "start" : 1644105262250,
+    "stop" : 1644105262252,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "188e1b8eac1e5a81",
+  "name" : "commonStaticLabelTest()",
+  "time" : {
+    "start" : 1644105262431,
+    "stop" : 1644105262438,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2238a4468f2d5433",
+  "name" : "allureFixtureTest()",
+  "time" : {
+    "start" : 1644105262484,
+    "stop" : 1644105262487,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d039eaea3f3e6ee",
+  "name" : "dynamicAttachmentTest()",
+  "time" : {
+    "start" : 1644105262387,
+    "stop" : 1644105262396,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fd32ad51c3e7e50",
+  "name" : "customStaticLabelTest()",
+  "time" : {
+    "start" : 1644105262440,
+    "stop" : 1644105262442,
     "duration" : 2
   },
   "status" : "passed",

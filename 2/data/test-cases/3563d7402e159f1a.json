@@ -1,0 +1,107 @@
+{
+  "uid" : "3563d7402e159f1a",
+  "name" : "customDynamicLabelTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureLabelsTest.customDynamicLabelTest",
+  "historyId" : "d0b6c765ffbabbe8ba456684cee38be8",
+  "time" : {
+    "start" : 1644105262426,
+    "stop" : 1644105262428,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az82-521"
+  }, {
+    "name" : "thread",
+    "value" : "2802@fv-az82-521.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureLabelsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureLabelsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "customDynamicLabelTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureLabelsTest"
+  }, {
+    "name" : "custom",
+    "value" : "dynamic value"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "acc7e2e58c4ad927",
+        "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/1//#testresult/acc7e2e58c4ad927",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644103625146,
+          "stop" : 1644103625147,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "f2ed17f90b3ffabe",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/8//#testresult/f2ed17f90b3ffabe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626360935374,
+          "stop" : 1626360935375,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "d9fc34e6e4cb1410",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/7//#testresult/d9fc34e6e4cb1410",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623316747421,
+          "stop" : 1623316747422,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "eb1374014ab169f5",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/6//#testresult/eb1374014ab169f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616359431334,
+          "stop" : 1616359431334,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3563d7402e159f1a.json",
+  "parameterValues" : [ ]
+}

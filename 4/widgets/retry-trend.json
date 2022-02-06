@@ -1,4 +1,76 @@
 [ {
+  "buildOrder" : 4,
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/8/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 21,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 6,
+    "retry" : 0
+  }
+}, {
   "data" : {
     "run" : 0,
     "retry" : 0

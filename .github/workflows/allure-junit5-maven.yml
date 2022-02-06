@@ -2,8 +2,6 @@ name: allure-junit5-maven
 
 on:
   push:
-    branches-ignore:
-      - '!master'
 
 jobs:
   autotests:

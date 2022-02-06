@@ -3,6 +3,7 @@ name: allure-junit5-maven
 on:
   push:
 
+
 jobs:
   autotests:
     name: Run tests and generate Allure Report

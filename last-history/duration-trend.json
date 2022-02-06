@@ -1,4 +1,11 @@
 [ {
+  "buildOrder" : 5,
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 668
+  }
+}, {
   "buildOrder" : 4,
   "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/4/",
   "reportName" : "Allure Report with history",

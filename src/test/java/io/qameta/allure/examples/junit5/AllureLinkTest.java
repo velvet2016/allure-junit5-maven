@@ -18,6 +18,7 @@ public class AllureLinkTest {
             @Link(name = "Second static link", url = "https://qameta.io")
     })
     public void staticLinksTest() {
+        assert 1==2;
     }
 
     @Test

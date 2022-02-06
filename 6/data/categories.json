@@ -1,5 +1,39 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "java.lang.AssertionError",
+      "children" : [ {
+        "name" : "staticLinksTest()",
+        "uid" : "ced491260fc5122d",
+        "parentUid" : "8c5a12edd58a5b39ca043c7c2ab86098",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644108584011,
+          "stop" : 1644108584014,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "dynamicLinkTest()",
+        "uid" : "c67c5c76b4912007",
+        "parentUid" : "8c5a12edd58a5b39ca043c7c2ab86098",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644108584029,
+          "stop" : 1644108584032,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c5a12edd58a5b39ca043c7c2ab86098"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
   "name" : "categories"
 }

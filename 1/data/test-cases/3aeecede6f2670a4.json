@@ -1,0 +1,139 @@
+{
+  "uid" : "3aeecede6f2670a4",
+  "name" : "dynamicAttachmentTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureAttachmentTest.dynamicAttachmentTest",
+  "historyId" : "3d14425362ed4e17f11112726f3aa8dc",
+  "time" : {
+    "start" : 1644106073209,
+    "stop" : 1644106073214,
+    "duration" : 5
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "edc131d5905abc23",
+      "name" : "Dynamic attachment",
+      "source" : "edc131d5905abc23.txt",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az121-618"
+  }, {
+    "name" : "thread",
+    "value" : "2785@fv-az121-618.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureAttachmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureAttachmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "dynamicAttachmentTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureAttachmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "2efb71a2ec97bf25",
+        "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/3//#testresult/2efb71a2ec97bf25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644105851008,
+          "stop" : 1644105851016,
+          "duration" : 8
+        }
+      }, {
+        "uid" : "4d039eaea3f3e6ee",
+        "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/2//#testresult/4d039eaea3f3e6ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644105262387,
+          "stop" : 1644105262396,
+          "duration" : 9
+        }
+      }, {
+        "uid" : "a7479eb2ea531bdd",
+        "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/1//#testresult/a7479eb2ea531bdd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644103625116,
+          "stop" : 1644103625123,
+          "duration" : 7
+        }
+      }, {
+        "uid" : "94f260151e3ee27d",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/8//#testresult/94f260151e3ee27d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626360935394,
+          "stop" : 1626360935398,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "171fd5b21da8eacd",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/7//#testresult/171fd5b21da8eacd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623316747357,
+          "stop" : 1623316747366,
+          "duration" : 9
+        }
+      }, {
+        "uid" : "e0f2af93b264fdcf",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/6//#testresult/e0f2af93b264fdcf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616359431468,
+          "stop" : 1616359431473,
+          "duration" : 5
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3aeecede6f2670a4.json",
+  "parameterValues" : [ ]
+}

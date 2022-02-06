@@ -1,7 +1,10 @@
 name: allure-junit5-maven
 
 on:
-  push:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches:
+      - '**'
 
 jobs:
   autotests:

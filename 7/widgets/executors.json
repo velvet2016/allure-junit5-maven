@@ -1,10 +1,10 @@
 [ {
   "name" : "GitHub Actions",
   "type" : "github",
-  "url" : "https://allure-examples.github.io/allure-junit5-maven",
+  "url" : "https://velvet2016.github.io/allure-junit5-maven",
   "buildOrder" : 7,
-  "buildName" : "GitHub Actions Run #924598501",
-  "buildUrl" : "https://github.com/allure-examples/allure-junit5-maven/actions/runs/924598501",
+  "buildName" : "GitHub Actions Run #1800896124",
+  "buildUrl" : "https://github.com/velvet2016/allure-junit5-maven/actions/runs/1800896124",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://allure-examples.github.io/allure-junit5-maven/7/"
+  "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7/"
 } ]

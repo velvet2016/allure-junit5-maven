@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "dcc4cf7bc331c0f7",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/dcc4cf7bc331c0f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691298,
+        "stop" : 1644108691299,
+        "duration" : 1
+      }
+    }, {
       "uid" : "3cfc8757fe286dc1",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/3cfc8757fe286dc1",
       "status" : "passed",
@@ -105,11 +114,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "a09fde2744dc1cb6",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/a09fde2744dc1cb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691048,
+        "stop" : 1644108691085,
+        "duration" : 37
+      }
+    }, {
       "uid" : "6036c808473ba792",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/6036c808473ba792",
       "status" : "passed",
@@ -206,11 +224,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "8a5cc166693246c2",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/8a5cc166693246c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691230,
+        "stop" : 1644108691231,
+        "duration" : 1
+      }
+    }, {
       "uid" : "43b1f78541c1f2ca",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/43b1f78541c1f2ca",
       "status" : "passed",
@@ -316,11 +343,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "b6714e8ae6e6228e",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/b6714e8ae6e6228e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691113,
+        "stop" : 1644108691117,
+        "duration" : 4
+      }
+    }, {
       "uid" : "531a79697c383ff1",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/531a79697c383ff1",
       "status" : "passed",
@@ -414,14 +450,24 @@
   },
   "b9daa09f2cd9f768a39a7e8a91c3c20c" : {
     "statistic" : {
-      "failed" : 3,
+      "failed" : 4,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 7,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "2471ae9b9affad2f",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/2471ae9b9affad2f",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1644108690995,
+        "stop" : 1644108690997,
+        "duration" : 2
+      }
+    }, {
       "uid" : "c67c5c76b4912007",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/c67c5c76b4912007",
       "status" : "failed",
@@ -541,11 +587,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "ea1bea0963a3067d",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/ea1bea0963a3067d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691293,
+        "stop" : 1644108691294,
+        "duration" : 1
+      }
+    }, {
       "uid" : "86583f50988c1ac",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/86583f50988c1ac",
       "status" : "passed",
@@ -642,11 +697,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "f40562fca408ad8a",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/f40562fca408ad8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691141,
+        "stop" : 1644108691150,
+        "duration" : 9
+      }
+    }, {
       "uid" : "606f4e08a136ad1",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/606f4e08a136ad1",
       "status" : "passed",
@@ -743,11 +807,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "7790bcea9687c99d",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/7790bcea9687c99d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691282,
+        "stop" : 1644108691283,
+        "duration" : 1
+      }
+    }, {
       "uid" : "8bae8cd9eced96a2",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/8bae8cd9eced96a2",
       "status" : "passed",
@@ -853,11 +926,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "1d6a2b3bee3acdc4",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/1d6a2b3bee3acdc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691172,
+        "stop" : 1644108691173,
+        "duration" : 1
+      }
+    }, {
       "uid" : "ca8aeb52fa532350",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/ca8aeb52fa532350",
       "status" : "passed",
@@ -954,11 +1036,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "4e46ebaec4345c5e",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/4e46ebaec4345c5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691300,
+        "stop" : 1644108691301,
+        "duration" : 1
+      }
+    }, {
       "uid" : "ae1b5d66b62909f5",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/ae1b5d66b62909f5",
       "status" : "passed",
@@ -1055,11 +1146,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "5c4ffe653451b3e7",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/5c4ffe653451b3e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691288,
+        "stop" : 1644108691289,
+        "duration" : 1
+      }
+    }, {
       "uid" : "dd8488511291dc3",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/dd8488511291dc3",
       "status" : "passed",
@@ -1156,11 +1256,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "2423a4a68e4155f1",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/2423a4a68e4155f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691105,
+        "stop" : 1644108691107,
+        "duration" : 2
+      }
+    }, {
       "uid" : "144653fa66465c97",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/144653fa66465c97",
       "status" : "passed",
@@ -1277,11 +1386,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "eafaef9e6b0991d9",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/eafaef9e6b0991d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691208,
+        "stop" : 1644108691212,
+        "duration" : 4
+      }
+    }, {
       "uid" : "bead1b3d66145eb9",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/bead1b3d66145eb9",
       "status" : "passed",
@@ -1384,14 +1502,24 @@
   },
   "ebe7f238b0be7a3e9c2ee74a3d43e178" : {
     "statistic" : {
-      "failed" : 3,
+      "failed" : 4,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 7,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "8a42db3814523b9a",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/8a42db3814523b9a",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1644108690970,
+        "stop" : 1644108690974,
+        "duration" : 4
+      }
+    }, {
       "uid" : "ced491260fc5122d",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/ced491260fc5122d",
       "status" : "failed",
@@ -1491,11 +1619,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "43fedd5d3163e5af",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/43fedd5d3163e5af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691168,
+        "stop" : 1644108691169,
+        "duration" : 1
+      }
+    }, {
       "uid" : "47d9eac846c9d5d1",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/47d9eac846c9d5d1",
       "status" : "passed",
@@ -1592,11 +1729,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "d3295fa339f06135",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/d3295fa339f06135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691290,
+        "stop" : 1644108691290,
+        "duration" : 0
+      }
+    }, {
       "uid" : "4b0b2dd9f6c1de1a",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/4b0b2dd9f6c1de1a",
       "status" : "passed",
@@ -1693,11 +1839,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "68b3ceb9968c8ceb",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/68b3ceb9968c8ceb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691163,
+        "stop" : 1644108691164,
+        "duration" : 1
+      }
+    }, {
       "uid" : "57b86a2c6099e477",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/57b86a2c6099e477",
       "status" : "passed",
@@ -1794,11 +1949,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "830f9e1b887e0110",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/830f9e1b887e0110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691260,
+        "stop" : 1644108691277,
+        "duration" : 17
+      }
+    }, {
       "uid" : "db9b6609cc4a6728",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/db9b6609cc4a6728",
       "status" : "passed",
@@ -1904,11 +2068,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "16cd21cb2358d7e9",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/16cd21cb2358d7e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691130,
+        "stop" : 1644108691136,
+        "duration" : 6
+      }
+    }, {
       "uid" : "5fe4c30a7a1b54ba",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/5fe4c30a7a1b54ba",
       "status" : "passed",
@@ -2005,11 +2178,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "b14c4e48a678b064",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/b14c4e48a678b064",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108690725,
+        "stop" : 1644108690846,
+        "duration" : 121
+      }
+    }, {
       "uid" : "5d1e94b3d6bda266",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/5d1e94b3d6bda266",
       "status" : "passed",
@@ -2106,11 +2288,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "453e12a5374763ed",
+      "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/7//#testresult/453e12a5374763ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644108691175,
+        "stop" : 1644108691176,
+        "duration" : 1
+      }
+    }, {
       "uid" : "13efe57fb116f2ba",
       "reportUrl" : "https://velvet2016.github.io/allure-junit5-maven/6//#testresult/13efe57fb116f2ba",
       "status" : "passed",
